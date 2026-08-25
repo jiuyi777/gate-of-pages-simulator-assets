@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">征战世界旋转法阵</title>
+  <g fill="none" stroke="#c49a52" stroke-linecap="square">
+    <circle cx="512" cy="512" r="405" stroke-width="23"/>
+    <circle cx="512" cy="512" r="364" stroke-width="8" stroke-dasharray="34 15 7 15"/>
+    <circle cx="512" cy="512" r="313" stroke="#ead7a6" stroke-width="12"/>
+    <circle cx="512" cy="512" r="278" stroke-width="5" stroke-dasharray="8 18"/>
+    <path stroke-width="16" d="M512 18 548 105 512 157 476 105 512 18Zm494 494-87 36-52-36 52-36 87 36ZM512 1006l-36-87 36-52 36 52-36 87ZM18 512l87-36 52 36-52 36-87-36Z"/>
+    <path stroke="#ead7a6" stroke-width="8" d="m210 210 61 25 14 54-54-14-21-65Zm604 0-21 65-54 14 14-54 61-25Zm0 604-61-25-14-54 54 14 21 65Zm-604 0 21-65 54-14-14 54-61 25Z"/>
+    <path stroke-width="6" stroke-dasharray="5 21" d="M512 76v90m436 346h-90M512 948v-90M76 512h90M203 203l64 64m554-64-64 64m64 554-64-64m-554 64 64-64"/>
+  </g>
+  <g fill="#c49a52">
+    <path d="m512 177 15 35 36 15-36 15-15 36-15-36-36-15 36-15 15-35Zm0 569 12 29 30 13-30 12-12 30-12-30-30-12 30-13 12-29Z"/>
+    <circle cx="237" cy="512" r="12"/><circle cx="787" cy="512" r="12"/><circle cx="512" cy="237" r="9"/><circle cx="512" cy="787" r="9"/>
+  </g>
+  <g fill="#9d332b"><circle cx="328" cy="301" r="10"/><circle cx="717" cy="344" r="8"/><circle cx="678" cy="724" r="11"/></g>
+</svg>

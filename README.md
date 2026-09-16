@@ -4,9 +4,9 @@
 
 ## 独立版下载
 
-[万页之门 1.4.107 · Android / Windows 测试版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.107)
+[万页之门 1.4.109 · Android / Windows 测试版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.109)
 
-新增可保存的 User 人设，并修复重复生成大纲的问题。Windows 包完整解压后运行「万页之门.exe」；Android 使用 APK。更新 Windows 时保留原有用户数据目录。
+人设随存档保存和迁移，支持撤回与恢复、长短文双向切换，并修复本地重 Roll。Windows 包完整解压后运行「万页之门.exe」；Android 使用 APK。更新 Windows 时保留原有用户数据目录。
 
 发布附件为独立应用；本仓库源码仍是 URL 版的静态素材。
 

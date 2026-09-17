@@ -12,7 +12,7 @@
 
 ## 酒馆卡下载
 
-[万页之门 1.4.108 · 酒馆卡测试版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.108-card)
+[万页之门 1.4.110 · 酒馆卡候选修复版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.110-card)
 
 提供通用 PNG、手机轻量 PNG 和同内容 JSON；任选一个导入。手机轻量 PNG 需要支持 V3 卡的新版酒馆。功能范围与验证情况见发布说明。
 
@@ -34,6 +34,9 @@
 本仓库只包含界面图片、卡面 WebP、素材清单和 SVG。它不包含 API Key、模型设置、聊天记录、故事存档或玩家填写的内容。
 
 ## 更新说明
+
+版本号统一使用三段式 1.x.xx，不追加第四段或更多数字段。
+
 
 角色卡引用带版本号的 CDN 地址。素材更新时应发布新版本并重新构建 URL 版角色卡，避免旧卡在缓存中突然改变。
 

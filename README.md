@@ -2,19 +2,19 @@
 
 这是“万页之门·故事模拟器”URL 版角色卡使用的公开静态素材仓库。
 
-## 独立版下载
+## Android 与酒馆卡下载
 
-[万页之门 1.4.109 · Android / Windows 测试版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.109)
+[万页之门 1.4.110 · APK 与酒馆卡统一下载](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.110)
 
-人设随存档保存和迁移，支持撤回与恢复、长短文双向切换，并修复本地重 Roll。Windows 包完整解压后运行「万页之门.exe」；Android 使用 APK。更新 Windows 时保留原有用户数据目录。
+Android 下载 APK；酒馆卡在通用 PNG、手机轻量 PNG、JSON 中任选一个导入。手机轻量 PNG 需要支持 V3 卡的新版酒馆。候选修复内容和验证边界见发布说明。
 
-发布附件为独立应用；本仓库源码仍是 URL 版的静态素材。
+## Windows 下载
 
-## 酒馆卡下载
+[万页之门 1.4.109 · Windows 测试版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.109)
 
-[万页之门 1.4.110 · 酒馆卡候选修复版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.110-card)
+Windows 包完整解压后运行「万页之门.exe」，更新时保留原有用户数据目录。
 
-提供通用 PNG、手机轻量 PNG 和同内容 JSON；任选一个导入。手机轻量 PNG 需要支持 V3 卡的新版酒馆。功能范围与验证情况见发布说明。
+本仓库源码仍是 URL 版的静态素材，安装包及角色卡在发布页提供。
 
 ## 给玩家
 

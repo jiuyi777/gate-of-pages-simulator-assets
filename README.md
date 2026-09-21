@@ -2,15 +2,15 @@
 
 这是“万页之门·故事模拟器”URL 版角色卡使用的公开静态素材仓库。
 
-## Android 与酒馆卡下载
+## Windows、Android 与酒馆卡下载
 
-[万页之门 1.4.112 · APK 与酒馆卡统一下载](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.112)
+[万页之门 1.4.112 · EXE、APK 与酒馆卡统一下载](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.112)
 
 Android 下载 APK；酒馆卡在通用 PNG、手机轻量 PNG、JSON 中任选一个导入。手机轻量 PNG 需要支持 V3 卡的新版酒馆。候选修复内容和验证边界见发布说明。
 
-## Windows 下载
+## Windows 使用方法
 
-[万页之门 1.4.109 · Windows 测试版](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.109)
+Windows、Android 和酒馆卡统一版本、统一在上方发布页提供。Windows 下载 Windows-x64.zip，内含 EXE 及必要运行文件。
 
 Windows 包完整解压后运行「万页之门.exe」，更新时保留原有用户数据目录。
 

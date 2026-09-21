@@ -4,7 +4,7 @@
 
 ## Windows、Android 与酒馆卡下载
 
-[万页之门 1.4.112 · EXE、APK 与酒馆卡统一下载](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.112)
+[万页之门 1.4.113 · EXE、APK 与酒馆卡统一下载](https://github.com/jiuyi777/gate-of-pages-simulator-assets/releases/tag/v1.4.113)
 
 Android 下载 APK；酒馆卡在通用 PNG、手机轻量 PNG、JSON 中任选一个导入。手机轻量 PNG 需要支持 V3 卡的新版酒馆。候选修复内容和验证边界见发布说明。
 
